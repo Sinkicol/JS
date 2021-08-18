@@ -5,4 +5,4 @@ local args = {
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 
-game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+game.Players.LocalPlayer.Character.Humanoid.JumpPower = 90
